@@ -9,4 +9,4 @@ print("Hello world")
 
 
 def anewfunction():
-    pass
+   print("Something else") 
