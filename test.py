@@ -6,3 +6,7 @@ print("another print statement")
 
 # this is an adjustment made in the test2 folder
 print("Hello world")
+
+
+def anewfunction():
+    pass
